@@ -1,13 +1,13 @@
-# CHESS ANALYSIS
+#CHESS ANALYSIS
 
 
-**Introduction**
+###Introduction
 
 
 This project will analyze my Chess.com game data to gain a deeper understanding of my playing habits and performance trends, specifically focusing on rapid games. The dataset includes comprehensive information about my games, such as results, accuracy, timing, and tactical patterns. By thoroughly exploring this data, I aim to uncover insights into my strengths and weaknesses, identify patterns in my gameplay, and understand how different factors affect my performance. This analysis will help me reflect on my playing style and find areas for improvement to become a more effective chess player.
 
 
-**Dataset**
+###Dataset
 
 
 The dataset provides detailed information about my rapid games on Chess.com and includes the following key aspects:
@@ -27,10 +27,10 @@ The dataset provides detailed information about my rapid games on Chess.com and 
 
 ==> Geographic Data: Maps the locations of my opponents to show the diversity of my competition.
 
-**Project Idea**
+###Project Idea
 The primary goal of this project is to use my Chess.com game data to gain insights into my playing style and habits. By analyzing various aspects of my games, such as performance in different phases, move quality, and openings, I aim to identify areas where I can improve. Ultimately, the analysis will help me refine my strategies and develop a more consistent and effective approach to playing chess.
 
-**Plan**
+###Plan
 
 
 
