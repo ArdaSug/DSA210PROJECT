@@ -6,7 +6,7 @@ This project analyzes my Chess.com game data to better understand my playing hab
 
 By exploring this dataset, I aim to uncover my playing style, identify my strengths and weaknesses, and understand how various factors, such as accuracy and move timing, influence my performance. This project will help me evaluate my decision-making in different game scenarios, analyze how I perform against opponents of various skill levels, and assess my effectiveness with specific openings and strategies. Ultimately, my goal is to reflect on these insights to refine my playing style, improve my gameplay consistency, and develop a more effective chess strategy.
 
-To visit the offical website == > (https://www.chess.com)
+To visit the offical website (https://www.chess.com)
 
 ## Motivation
 
@@ -66,6 +66,22 @@ This project is not only a personal improvement tool but also serves as a demons
 4. **Documentation**
    - Write down the methods, results, and improvements based on the analysis.
    - Share everything in a clear format, like a GitHub repository.
+
+
+## Data Source
+
+The data for this project was retrieved from the Chess.com Public API. Below are the archive URLs I used to access my game data:
+
+- [May 2024](https://api.chess.com/pub/player/xreadytodayalex/games/2024/05)
+- [June 2024](https://api.chess.com/pub/player/xreadytodayalex/games/2024/06)
+- [July 2024](https://api.chess.com/pub/player/xreadytodayalex/games/2024/07)
+- [August 2024](https://api.chess.com/pub/player/xreadytodayalex/games/2024/08)
+- [September 2024](https://api.chess.com/pub/player/xreadytodayalex/games/2024/09)
+- [October 2024](https://api.chess.com/pub/player/xreadytodayalex/games/2024/10)
+- [November 2024](https://api.chess.com/pub/player/xreadytodayalex/games/2024/11)
+
+For more information about the Chess.com Public API, visit the [official API documentation](https://www.chess.com/news/view/published-data-api).
+
 
 
 
