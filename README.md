@@ -52,7 +52,7 @@ This project is not only a personal improvement tool but also serves as a demons
 
 1. **Data Collection**
    - Get my rapid game data using the Chess.com public API.
-   - Organize the data and make sure it includes important details like accuracy, results, moves, and opponent ratings..
+   - Organize the data and make sure it includes important details like accuracy, results, moves, and opponent ratings.
 
 2. **Data Analysis**
    - Explore key performance metrics like accuracy trends, win/loss ratios, and time spent per move.
