@@ -80,7 +80,6 @@ The data for this project was retrieved from the Chess.com Public API. Below are
 - [October 2024](https://api.chess.com/pub/player/xreadytodayalex/games/2024/10)
 - [November 2024](https://api.chess.com/pub/player/xreadytodayalex/games/2024/11)
 
-For more information about the Chess.com Public API, visit the [official API documentation](https://www.chess.com/news/view/published-data-api).
 
 
 
