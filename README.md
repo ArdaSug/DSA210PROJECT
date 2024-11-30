@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project analyzes my Chess.com game data to better understand my playing habits and performance trends, with a specific focus on rapid games. The dataset, which I accessed using Chess.com’s public API, provides insights into my games, including results, accuracy, timing, and other key metrics. By using the API, I was able to retrieve detailed game information, such as move history, player ratings, and game outcomes.
+This project analyzes my Chess.com game data to better understand my playing habits and performance trends, with a specific focus on rapid games. The dataset, which I will use Chess.com’s public API, provides insights into my games, including results, accuracy, timing, and other key metrics. By using the API, I will retrieve  game information, such as move history, player ratings, and game outcomes.
 
 By exploring this dataset, I aim to uncover my playing style, identify my strengths and weaknesses, and understand how various factors, such as accuracy and move timing, influence my performance. This project will help me evaluate my decision-making in different game scenarios, analyze how I perform against opponents of various skill levels, and assess my effectiveness with specific openings and strategies. Ultimately, my goal is to reflect on these insights to refine my playing style, improve my gameplay consistency, and develop a more effective chess strategy.
 
@@ -19,7 +19,7 @@ The dataset contains detailed information about my Chess.com rapid games and inc
 
  **Games Played and Accuracy**  
    - Tracks the total number of games played, along with outcomes (wins, losses, draws).  
-   - Analyzes trends in my average accuracy and examines how it changes depending on the game result.
+   - Analyzes my accuracy and examines how it changes depending on the game result.
 **Game Results and Opponent Ratings**  
    - Categorizes how games ended, such as through resignation, timeout, abandonment, or checkmate.  
    - Provides an analysis of my performance against opponents of varying skill levels, highlighting how I fare against stronger or weaker players.
@@ -43,7 +43,7 @@ The dataset contains detailed information about my Chess.com rapid games and inc
 
 ## Project Idea
 
-The primary goal of this project is to analyze my Chess.com game data to gain meaningful insights into my playing style, habits, and performance trends. By leveraging the Chess.com public API, I have collected detailed data about my games, including accuracy scores, move timings, results, and opponent information. This project aims to identify areas where I excel and areas that need improvement, such as specific openings, move quality, and time management. Through this analysis, I hope to refine my strategies, understand my decision-making  and develop a more consistent and effective approach to playing chess.
+The primary goal of this project is to analyze my Chess.com game data to gain meaningful insights into my playing style, habits, and performance trends. By leveraging the Chess.com public API, I have collected detailed data about my games, including accuracy scores, move timings, results, and opponent information. This project aims to identify areas where I excel and areas that need improvement, such as specific openings and time management. Through this analysis, I hope to refine my strategies, understand my decision-making  and develop a more consistent and effective approach to playing chess.
 
 This project is not only a personal improvement tool but also serves as a demonstration of how data can be used to uncover patterns and improve performance in a structured way. The insights generated can act as a guide to help me track my progress over time and implement actionable improvements in my gameplay.
 
