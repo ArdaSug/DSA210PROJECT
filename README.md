@@ -12,10 +12,6 @@ To visit the offical website (https://www.chess.com)
 
 While thinking about a project, I wanted to learn how to collect, organize, and analyze data from a real-world source. Since I enjoy playing chess, I decided to use my own game data from Chess.com as the focus. The motivation for this project is to better understand how to work with APIs, process data, and represent it in a meaningful way. By analyzing my game results, accuracy, and playing habits, I also aim to improve my skills both in data handling and chess strategy.
 
-## Hypothesis
-
-If I play more games in a given month compared to other months, my rank will improve more significantly during that period. This is because frequent gameplay helps sharpen my skills, increase experience, and achieve better results over time.
-
 ## Dataset
 
 The dataset contains detailed information about my Chess.com rapid games and includes the following key aspects such as:
