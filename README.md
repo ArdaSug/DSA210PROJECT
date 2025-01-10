@@ -46,6 +46,9 @@ The primary goal of this project is to analyze my Chess.com game data to gain me
 
 This project is not only a personal improvement tool but also serves as a demonstration of how data can be used to uncover patterns and improve performance in a structured way. The insights generated can act as a guide to help me track my progress over time and implement actionable improvements in my gameplay.
 
+## Hypothesis:
+Null Hypothesis: There is no relationship between the time period and performance outcome (time period and performance are independent).
+Alternative Hypothesis (There is a relationship between the time period and performance outcome (time period and performance are not independent).
 
 ## Plan
 
