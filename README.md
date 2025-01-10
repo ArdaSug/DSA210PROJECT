@@ -86,7 +86,7 @@ The data for this project was retrieved from the Chess.com Public API. Below are
 
 
 
-- LINK TO THE VIDEO
+## LINK TO THE VIDEO
 https://drive.google.com/file/d/1fyaXHG2EY8GIACn0uk-VnURvSfNDXZzH/view?usp=sharing
 
 
