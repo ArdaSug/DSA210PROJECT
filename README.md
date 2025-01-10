@@ -82,8 +82,11 @@ The data for this project was retrieved from the Chess.com Public API. Below are
 - [October 2024](https://api.chess.com/pub/player/xreadytodayalex/games/2024/10)
 - [November 2024](https://api.chess.com/pub/player/xreadytodayalex/games/2024/11)
 
-- LINK TO THE VIDEO
 
+
+
+
+- LINK TO THE VIDEO
 https://drive.google.com/file/d/1fyaXHG2EY8GIACn0uk-VnURvSfNDXZzH/view?usp=sharing
 
 
